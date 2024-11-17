@@ -1,11 +1,11 @@
 {
-    "dt-id": "https://AaltoIIC.github.io/twinbase-sandbox/f739898f-db55-4bc3-86b0-230f81a85555",
-    "hosting-iri": "https://AaltoIIC.github.io/twinbase-sandbox/f739898f-db55-4bc3-86b0-230f81a85555",
+    "dt-id": "https://TwinTorsion.github.io/development-twinbase/f739898f-db55-4bc3-86b0-230f81a85555",
+    "hosting-iri": "https://TwinTorsion.github.io/development-twinbase/f739898f-db55-4bc3-86b0-230f81a85555",
     "name": "Windmill rotor",
     "description": "A windwmill rotor componenent to be used in OpenTorsion Editor for torsional vibration analysis.",
-    "baseurl": "https://AaltoIIC.github.io/twinbase-sandbox",
-    "edit": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.yaml",
-    "edit-json": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.json",
+    "baseurl": "https://TwinTorsion.github.io/development-twinbase",
+    "edit": "https://TwinTorsion.github.io/development-twinbase/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.yaml",
+    "edit-json": "https://TwinTorsion.github.io/development-twinbase/edit/main/docs/f739898f-db55-4bc3-86b0-230f81a85555/index.json",
     "type": "torsionalModel",
     "elements": [
         {

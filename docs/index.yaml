@@ -1,12 +1,12 @@
-baseurl: https://AaltoIIC.github.io/twinbase-sandbox
+baseurl: https://TwinTorsion.github.io/development-twinbase
 owner:
   dt-id: http://d-t.fi/juuso
-repo_url: https://github.com/AaltoIIC/twinbase-sandbox
-new_twin_url: https://github.com/AaltoIIC/twinbase-sandbox/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
+repo_url: https://github.com/TwinTorsion/development-twinbase
+new_twin_url: https://github.com/TwinTorsion/development-twinbase/new/main?filename=docs/edit_this_with_backspace/index.yaml&value=Paste%20a%20DT%20document%20template%20here
 twins:
-- url: https://AaltoIIC.github.io/twinbase-sandbox/32fd70cb-c83c-41ab-9372-148223a04d47
+- url: https://TwinTorsion.github.io/development-twinbase/32fd70cb-c83c-41ab-9372-148223a04d47
   name: Windmill Turbine
-- url: https://AaltoIIC.github.io/twinbase-sandbox/f739898f-db55-4bc3-86b0-230f81a85555
+- url: https://TwinTorsion.github.io/development-twinbase/f739898f-db55-4bc3-86b0-230f81a85555
   name: Windmill rotor
-- url: https://AaltoIIC.github.io/twinbase-sandbox/b362301c-5ffc-4ace-8871-0f98d425455e
+- url: https://TwinTorsion.github.io/development-twinbase/b362301c-5ffc-4ace-8871-0f98d425455e
   name: Shaft component

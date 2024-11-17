@@ -1,11 +1,11 @@
-dt-id: https://AaltoIIC.github.io/twinbase-sandbox/b362301c-5ffc-4ace-8871-0f98d425455e
-hosting-iri: https://AaltoIIC.github.io/twinbase-sandbox/b362301c-5ffc-4ace-8871-0f98d425455e
+dt-id: https://TwinTorsion.github.io/development-twinbase/b362301c-5ffc-4ace-8871-0f98d425455e
+hosting-iri: https://TwinTorsion.github.io/development-twinbase/b362301c-5ffc-4ace-8871-0f98d425455e
 name: Shaft component
 description: A shaft componenent to be used in OpenTorsion Editor for torsional vibration
   analysis.
-baseurl: https://AaltoIIC.github.io/twinbase-sandbox
-edit: https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.yaml
-edit-json: https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.json
+baseurl: https://TwinTorsion.github.io/development-twinbase
+edit: https://TwinTorsion.github.io/development-twinbase/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.yaml
+edit-json: https://TwinTorsion.github.io/development-twinbase/edit/main/docs/b362301c-5ffc-4ace-8871-0f98d425455e/index.json
 type: torsionalModel
 elements:
 - name: Shaft 1

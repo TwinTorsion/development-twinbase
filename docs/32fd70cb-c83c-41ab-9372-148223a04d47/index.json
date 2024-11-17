@@ -1,11 +1,11 @@
 {
-    "dt-id": "https://AaltoIIC.github.io/twinbase-sandbox/32fd70cb-c83c-41ab-9372-148223a04d47",
-    "hosting-iri": "https://AaltoIIC.github.io/twinbase-sandbox/32fd70cb-c83c-41ab-9372-148223a04d47",
+    "dt-id": "https://TwinTorsion.github.io/development-twinbase/32fd70cb-c83c-41ab-9372-148223a04d47",
+    "hosting-iri": "https://TwinTorsion.github.io/development-twinbase/32fd70cb-c83c-41ab-9372-148223a04d47",
     "name": "Windmill Turbine",
     "description": "A turbine componenent for a windmill to be used in OpenTorsion Editor for torsional vibration analysis.",
-    "baseurl": "https://AaltoIIC.github.io/twinbase-sandbox",
-    "edit": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.yaml",
-    "edit-json": "https://github.com/AaltoIIC/twinbase-sandbox/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.json",
+    "baseurl": "https://TwinTorsion.github.io/development-twinbase",
+    "edit": "https://TwinTorsion.github.io/development-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.yaml",
+    "edit-json": "https://TwinTorsion.github.io/development-twinbase/edit/main/docs/32fd70cb-c83c-41ab-9372-148223a04d47/index.json",
     "type": "torsionalModel",
     "elements": [
         {
